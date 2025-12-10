@@ -32,8 +32,6 @@ The MegaBridge smart contract on Base handles:
 ## Security Features
 
 - **Manual Fulfillment**: All transfers are manually verified and fulfilled, reducing smart contract risk
-- **Emergency Withdrawal**: Contract owner can recover funds in case of emergency
-- **Pause Functionality**: Bridge can be paused if any issues are detected
 - **No Private Key Exposure**: Your wallet keys never leave your device
 
 ## Processing Time
