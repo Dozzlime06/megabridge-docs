@@ -23,8 +23,6 @@ MegaBridge uses a secure, manual fulfillment architecture to ensure the safety o
 The MegaBridge smart contract on Base handles:
 - Receiving deposits
 - Recording depositor addresses
-- Emergency withdrawal functionality (owner only)
-- Pause/unpause functionality for maintenance
 
 ### Contract Address (Base Mainnet)
 ```
